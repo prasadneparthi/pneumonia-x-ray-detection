@@ -4,6 +4,8 @@
 An AI-powered system for classifying chest X-rays as **Normal** or **Pneumonia** using deep learning.
 
 ![Streamlit UI](https://github.com/prasadneparthi/pneumonia-x-ray-detection/assets/preview-image-placeholder)
+[🧪 View Streamlit App](https://pneumonia-x-ray-detection-36mgqvcqnvpdgp4rycx3kf.streamlit.app/)
+
 
 ---
 
